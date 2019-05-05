@@ -1,0 +1,13 @@
+{
+  "python.jediEnabled": false,
+  "python.venvPath": ".venv",
+  "python.pythonPath": "${workspaceFolder}/.venv/bin/python",
+  "python.pipenvPath": "${workspaceFolder}/.venv/bin/pipenv",
+  "python.formatting.provider": "autopep8",
+  "python.linting.lintOnSave": true,
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.mypyEnabled": true
+}
